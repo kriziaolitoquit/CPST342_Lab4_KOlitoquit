@@ -40,7 +40,7 @@ Make sure your branch is clean prior to pushing up changes.  Make sure the chang
 1.  Adjust the README.md file at the end to include 
 1) the date of completion 12/12/2023
 2) course information CPST342
-3) the Heroku URL  https://dashboard.heroku.com/apps/kolitoquit-groceryapp/deploy/github
+3) the Heroku URL  https://kolitoquit-groceryapp-4a3026c74a69.herokuapp.com/
 
 ### STEP 6 - Submission
 1.  Comment your name to the app.js file and 
