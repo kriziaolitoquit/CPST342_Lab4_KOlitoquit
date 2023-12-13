@@ -3,6 +3,8 @@ const dbOperations = require('./database.js');
 const app = express()
 const port = process.env.PORT || 3000
 
+/**Krizia Olitoquit */
+
 /**To serve static files such as images, CSS files, and JavaScript files, create a folders
 * and include the below statement.  The below statement assumes that I have a folder named assets
 **/
